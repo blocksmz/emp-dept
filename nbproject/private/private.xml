@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/web/lisEmp.jsp</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/dao/EmpDAOImpl.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/dao/EmpDAOProxy.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/dao/IDEPTDAO.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/dao/DeptDAOImpl.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/dao/IEMPDAO.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/web/modEmp.jsp</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/dbc/DatabaseConnection.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/web/addEmp.jsp</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/dao/DeptDaoProxy.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/web/index.html</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/vo/Dept.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/web/lisDep.jsp</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/emp.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/vo/Emp.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/bean/doAddEmp.java</file>
+            <file>file:/home/blocks/NetBeansProjects/NineOne/src/java/zj/bean/doModEmp.java</file>
+        </group>
+    </open-files>
+</project-private>
